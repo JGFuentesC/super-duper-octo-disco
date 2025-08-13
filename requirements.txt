@@ -1,0 +1,6 @@
+pandas # Manipular datos 
+numpy # cálculo numérico 
+jupyter # Notebooks de experimentación 
+matplotlib # Gráficos 
+seaborn # Gráficos 
+scikit-learn # Machine Learning 
