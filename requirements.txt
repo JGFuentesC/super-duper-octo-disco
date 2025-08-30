@@ -4,3 +4,6 @@ jupyter # Notebooks de experimentación
 matplotlib # Gráficos 
 seaborn # Gráficos 
 scikit-learn # Machine Learning 
+transformers # Deep Learning 
+torch  # Deep Learning
+openpyxl # Leer Excel 
