@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 # Lectura de datos
 print("Loading data...")
-datos = pd.read_csv('titanic.csv')
+datos = pd.read_csv('../../data/raw/titanicDataset.csv')
 print(f"Data shape: {datos.shape}")
 
 # Categorizar variables

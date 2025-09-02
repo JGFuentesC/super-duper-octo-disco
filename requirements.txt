@@ -6,4 +6,6 @@ seaborn # Gráficos
 scikit-learn # Machine Learning 
 transformers # Deep Learning 
 torch  # Deep Learning
+torchvision # Deep Learning
 openpyxl # Leer Excel 
+jupytext # Leer y escribir notebooks
